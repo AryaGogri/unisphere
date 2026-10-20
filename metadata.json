@@ -1,0 +1,6 @@
+{
+  "name": "Unisphere",
+  "description": "The calm, intelligent memory and connection layer for university life.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
